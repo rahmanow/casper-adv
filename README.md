@@ -4,6 +4,8 @@ The advanced version of default theme for [Ghost](http://github.com/tryghost/gho
 
 Original theme is hardcoded, has no language tags.
 
+Demo: https://blog.rahmanow.com
+
 &nbsp;
 
 # What is difference?
